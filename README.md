@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okdad
-- 👀 I’m interested in uhh... something...?
-- 🌱 I’m currently learning a lot of stuff honestly, HTML, PHP, Java, JS, my brain already hurts trying to juggle everything
+- 👀 I’m interested in ... (guess why im on github)
+- 🌱 I’m currently learning Java, JavaFX, and some front end stuff (eww frontend 🤢🤢)
 - 📫 How to reach me (dont)
 
 <!---
